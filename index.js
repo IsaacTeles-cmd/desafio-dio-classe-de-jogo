@@ -35,11 +35,11 @@ class Heroi {
 
 console.log("=== Criando heróis ===");
 
-const mago = new Heroi("Merlin", 150, "mago");
-const guerreiro = new Heroi("Arthur", 35, "guerreiro");
-const monge = new Heroi("Li", 60, "monge");
-const ninja = new Heroi("Hanzo", 28, "ninja");
-const heroiDesconhecido = new Heroi("Desconhecido", 25, "arqueiro");
+const mago = new Heroi("Harry", 150, "mago");
+const guerreiro = new Heroi("Guts", 35, "guerreiro");
+const monge = new Heroi("Aang", 60, "monge");
+const ninja = new Heroi("Naruto", 28, "ninja");
+const heroiDesconhecido = new Heroi("Andarilho", 25, "arqueiro");
 
 mago.mostrarInfo();
 guerreiro.mostrarInfo();
